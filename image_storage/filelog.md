@@ -1,4 +1,4 @@
->All the pictures needed for the project will be placed in this folder
+> All the pictures needed for the project will be placed in this folder
 
 2020.10.05
 
